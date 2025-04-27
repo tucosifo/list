@@ -1,0 +1,72 @@
+[
+    {
+        "role": "owner",
+        "name": "Motor8",
+        "link": "https://www.youtube.com/channel/UCWY7x6JIKKPVOaD1xcDAJMg"
+    },    
+    {
+        "role": "admin",
+        "name": "conski",
+        "link": "https://www.youtube.com/channel/UCcwQJxBYyyuoDkMMqE5i7Cg"
+    },
+    {
+        "role": "admin",
+        "name": "gBen",
+        "link": "https://www.youtube.com/channel/UClgIANE-cdR16TAT1ly9UBw"
+    },
+    {
+        "role": "admin",
+        "name": "Graydient7",
+        "link": "https://www.youtube.com/channel/UCUfKLS6nwu1wRWFIpzUIOKQ"
+    },
+    {
+        "role": "helper",
+        "name": "ATF",
+        "link": "https://www.youtube.com/channel/UCwBU8ulosh1IyNHoaLWdrwg"
+    },
+    {
+        "role": "helper",
+        "name": "Cr1msoN",
+        "link": "https://www.youtube.com/channel/UCJIIMiy_4DKXJfccRL38EGw"
+    },
+    {
+        "role": "helper",
+        "name": "erzor",
+        "link": "https://www.youtube.com/channel/UCZO3TzdzwGAoRYmPmZ39dIA"
+    },
+    {
+        "role": "helper",
+        "name": "gdbatle1",
+        "link": "https://www.youtube.com/channel/UCSXd6Nc0CeFNpOLP7JvKJnQ"
+    },
+    {
+        "role": "helper",
+        "name": "Ketchup",
+        "link": "https://www.youtube.com/channel/UCdzFnJqHSRcjbjUBBV102Uw"
+    },
+    {
+        "role": "helper",
+        "name": "tomm",
+        "link": "https://www.youtube.com/channel/UCObExuzSHQ7Y6PK78fpos_Q"
+    },
+    {
+        "role": "helper",
+        "name": "vapidf",
+        "link": "https://www.youtube.com/channel/UCvlSU1B9XU0Qz2OKW08u4qg"
+    },
+    {
+        "role": "dev",
+        "name": "Prometheus",
+        "link": "https://www.youtube.com/channel/UCg_r2c6sLRfiMcUSiRQHr8Q"
+    },
+    {
+        "role": "dev",
+        "name": "Chillsy",
+        "link": "https://www.youtube.com/channel/UCFzACnyFpcTmVkL49gr0foQ"
+    },
+    {
+        "role": "artist",
+        "name": "ThosePixels",
+        "link": "https://www.youtube.com/@thosepixels"
+    }
+]
