@@ -1,0 +1,40 @@
+{
+    "id": "101590450",
+    "name": "Castle Town         ",
+    "author": "zYuko",
+    "verifier": "conski",
+    "desc": "Fields of Hopes and Dreams",
+    "percentToQualify": "61",
+    "handcam": 2,
+    "hacked": false,
+    "unrated": true,
+    "verificationVid": "https://youtu.be/2Vt_80Fmpjo",
+    "password": "N/A",
+    "records": [
+        {
+            "percent": "100",
+            "link": "https://youtu.be/WdtIJe1n9UM?t=146",
+            "user": "Motor8"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/4Qy-60eM0Zw",
+            "user": "Nsaynchkn"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/k4RYj-VKCF4",
+            "user": "coubitic"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/OtMBnGgpUxc",
+            "user": "Rei"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/He3zLYGFQWo",
+            "user": "Neuron"
+        }
+    ]
+}

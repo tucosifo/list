@@ -1,0 +1,60 @@
+{
+    "id": "104953229",
+    "name": "Fury",
+    "author": "wickedZoe",
+    "verifier": "wickedZoe",
+    "desc": "inspired by a certain orange level",
+    "percentToQualify": "100",
+    "handcam": 0,
+    "hacked": false,
+    "unrated": true,
+    "verificationVid": "https://youtu.be/J6CtfBbXXLQ",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "percent": "100",
+            "link": "https://youtu.be/tmbK7LSR3QU",
+            "user": "Rei"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/IUOItWahH8I",
+            "user": "gBen"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/X_al-NheVf4",
+            "user": "Geiser"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/kpXf9_xWWFE?t=455",
+            "user": "Motor8"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/G_DLhN9-2pg",
+            "user": "erzor"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/tFZZSfg3E84?t=556",
+            "user": "conski"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/gMUeg9haBEE?t=10",
+            "user": "Ketchup"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/uBc6dMeQ6Ac",
+            "user": "drige"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/DTJEEUIr1t8",
+            "user": "CasperDePidgey"
+        }
+    ]
+}

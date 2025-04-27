@@ -1,0 +1,45 @@
+{
+    "id": "66354413",
+    "name": "Devyn2Fosmire",
+    "author": "Toma36",
+    "verifier": "gBen",
+    "desc": "nah",
+    "percentToQualify": "44",
+    "handcam": 2,
+    "hacked": false,
+    "unrated": true,
+    "verificationVid": "https://youtu.be/Z-XseLyh2VM",
+    "password": "",
+    "records": [
+        {
+            "percent": "100",
+            "link": "https://youtu.be/vNiMlzoGADs?t=763",
+            "user": "Motor8"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/PoYv4UD2DDQ",
+            "user": "Rei"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/fiaKU-JTisA",
+            "user": "conski"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/wusnu5qVfyE",
+            "user": "Lloydubs"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/NxtrmxCojn0",
+            "user": "Neuron"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/h0EqckSs33E",
+            "user": "ButtertheCat"
+        }
+    ]
+}

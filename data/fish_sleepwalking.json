@@ -1,0 +1,55 @@
+{
+    "id": "2318912",
+    "name": "Fish sleepwalking",
+    "author": "rabbitdevil",
+    "verifier": "Motor8",
+    "desc": "You can play 2P mode?",
+    "percentToQualify": "100",
+    "handcam": 0,
+    "hacked": false,
+    "unrated": true,
+    "verificationVid": "https://youtu.be/InMXtxo1EU4?t=79",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "percent": "100",
+            "link": "https://youtu.be/x_pyylsqfkI?t=69",
+            "user": "Rei"
+		},
+        {
+            "percent": "100",
+            "link": "https://youtu.be/GkbTvK9__6E",
+            "user": "tomm"
+		},
+        {
+            "percent": "100",
+            "link": "https://youtu.be/XvlH9_uBCcQ",
+            "user": "Ryclix"
+		},
+        {
+            "percent": "100",
+            "link": "https://youtu.be/jaQmIub89Tw",
+            "user": "derpyfaceddude"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/W5-ZdP20AmE?t=29",
+            "user": "Ketchup"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/OrDSxQva3MQ",
+            "user": "gBen"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/fjdSjp2uBhM",
+            "user": "A05Polzar"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/TQcxpd67zvQ",
+            "user": "Graydient"
+        }
+    ]
+}

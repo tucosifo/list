@@ -1,0 +1,15 @@
+{
+    "id": "Ketchup",
+    "name": "Ketchup",
+    "author": "Ketchup",
+    "verifier": "Ketchup",
+    "desc": "meow meow meow all day all night",
+    "percentToQualify": "100",
+    "handcam": 2,
+    "hacked": false,
+    "unrated": true,
+    "verificationVid": "https://youtu.be/qjDWyQLRtHo",
+    "password": "",
+    "records": [
+    ]
+}

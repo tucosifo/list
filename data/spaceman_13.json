@@ -1,0 +1,50 @@
+{
+    "id": "108659591",
+    "name": "Spaceman 13",
+    "author": "Dasher3000",
+    "verifier": "Dasher3000",
+    "desc": "This might be my last 1.9 unless I finish another collab level I have. Medium demon? Thx guys!",
+    "percentToQualify": "100",
+    "handcam": 0,
+    "hacked": false,
+    "unrated": true,
+    "verificationVid": "https://youtu.be/to8xIQbMuOg?t=7",
+    "password": "130013",
+    "records":[
+        {
+            "percent": "100",
+            "link": "https://youtu.be/vNiMlzoGADs?t=270",
+            "user": "Motor8"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/fiaKU-JTisA?t=204",
+            "user": "conski"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/NFnQYJgYyKo?t=36",
+            "user": "Rei"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/leOqggPAaH0",
+            "user": "Ketchup"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/4_tmXUrmBWc?t=82",
+            "user": "GHC"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/i3YaDUqPj98?t=32",
+            "user": "Magenta"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/Bj8yg2DT43I",
+            "user": "gBen"
+        }
+    ]
+}

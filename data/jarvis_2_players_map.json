@@ -1,0 +1,35 @@
+{
+    "id": "99546275",
+    "name": "jarvis 2 PLAYERS map",
+    "author": "robotchief",
+    "verifier": "Cr1msoN",
+    "desc": "Revamped version of jarvis dual map with improved deco and 2.2 features. Verified by me and Trenonicle. Verified SOLO by Cr1mson23.",
+    "percentToQualify": "61",
+    "handcam": 2,
+    "hacked": false,
+	"unrated": true,
+    "verificationVid": "https://youtu.be/jcmgyryZaaE",
+    "password": "N/A",
+    "records": [
+        {
+            "percent": "100",
+            "link": "https://youtu.be/WdtIJe1n9UM?t=79",
+            "user": "Motor8"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/ilPRmNsyqJI",
+            "user": "Rei"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/BACtDfFRih0",
+            "user": "gBen"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/3auO2JY4ya0",
+            "user": "Neuron"
+        }
+    ]
+}
